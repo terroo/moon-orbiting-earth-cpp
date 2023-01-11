@@ -14,8 +14,8 @@ Animation made with C++ and SFML
 # Building
 
 ```sh
-git clone https://github.com/terroo/particle-system
-cd particle-system
+git clone https://github.com/terroo/moon-orbiting-earth-cpp
+cd moon-orbiting-earth-cpp
 make
 ```
 
