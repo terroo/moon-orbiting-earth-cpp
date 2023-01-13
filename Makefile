@@ -1,4 +1,4 @@
-TARGET=particles
+TARGET=moon-earth
 CXX=g++
 DEBUG=-g
 OPT=-O0
